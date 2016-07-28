@@ -14,8 +14,8 @@
 
 1. Копируем сайт (директории и файлы на ваш лок.сервер к примеру: "python.loc")<br>
 2. Создаем базу данных "complaints" в phpMyAdmin<br>
-3. В phpMyAdmin импортируем данные с файла complaints.sql в базу "complaints"<br><br>
-4. Запускаем web-сервер lamp apache.
+3. В phpMyAdmin импортируем данные с файла complaints.sql в базу "complaints"<br>
+4. Запускаем web-сервер lamp apache.<br><br>
  
 Если все правильно по переходу в URL http://python.loc запуститься сайт
 
